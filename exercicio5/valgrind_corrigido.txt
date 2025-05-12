@@ -1,0 +1,15 @@
+==23778== Memcheck, a memory error detector
+==23778== Copyright (C) 2002-2017, and GNU GPL'd, by Julian Seward et al.
+==23778== Using Valgrind-3.15.0 and LibVEX; rerun with -h for copyright info
+==23778== Command: ./exercicio5
+==23778== 
+Valor inicial: 42
+==23778== 
+==23778== HEAP SUMMARY:
+==23778==     in use at exit: 0 bytes in 0 blocks
+==23778==   total heap usage: 2 allocs, 2 frees, 1,028 bytes allocated
+==23778== 
+==23778== All heap blocks were freed -- no leaks are possible
+==23778== 
+==23778== For lists of detected and suppressed errors, rerun with: -s
+==23778== ERROR SUMMARY: 0 errors from 0 contexts (suppressed: 0 from 0)
